@@ -1,0 +1,38 @@
+.encabezado_01{
+	color: white;
+	font-size: 28px;
+	font-weight:  bold;
+	font-family:  arial black;
+	background: #5A0056 ; 
+	width: 50%;
+	border-radius: 15px;
+}
+.encabezado_02{
+	color: white;
+	font-size: 28px;
+	font-weight:  bold;
+	background: #5A0056 ; 
+	width: 70%;
+	border-radius: 15px;
+}
+
+.boton_01{
+	color: white;
+	font-size: 28px;
+	font-weight:  bold;
+	font-family:  arial black;
+	background: #615E72 ; 
+	widht: 50%;
+	border-radius: 15px;
+}
+
+.boton_01:hover{
+	color: white;
+	background: #615E72 ; 
+}
+
+.tabla{
+	background: #000000 ;
+	widht: 100px;
+    text-align: center;
+    padding: 10px;

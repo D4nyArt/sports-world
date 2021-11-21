@@ -1,0 +1,32 @@
+.texto{
+	font-size:13pt;
+	font-weight: bold;
+	color: white;
+}
+
+.encabezado_01{
+	color: white;
+	font-size: 28px;
+	font-weight:  bold;
+	font-family:  arial black;
+	background: #5A0056 ; 
+	width: 50%;
+	border-radius: 15px;
+}
+
+.campo{
+	font-size:16pt;
+	font-weight: bold;
+	color: black;
+	background: whitesmoke;
+	text-align:center;
+	border-radius: 7px;
+}
+
+.boton{
+	font-size:16pt;
+	font-weight: bold;
+	color: white;
+	background: #09F70F;
+	border-radius: 7px;	
+}
